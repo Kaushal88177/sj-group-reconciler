@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+.env
+*.egg-info/
+
+# PyInstaller
+dist/
+build/
+*.spec
+*.manifest
+
+# Output
+SJGroup_Output/
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Excel temp
+~$*.xlsx
+~$*.xls
